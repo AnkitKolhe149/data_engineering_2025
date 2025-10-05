@@ -1,0 +1,4 @@
+kafka-python
+requests
+faust
+pymongo
